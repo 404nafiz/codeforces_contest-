@@ -1,0 +1,13 @@
+#include <bits/stdc++.h>
+using namespace std;
+int main()
+{
+ int test_case;
+ cin>>test_case;
+ for(int i=1;i<=12;i++)
+{
+    int mul=i*test_case;
+ cout<<test_case<<" "<<"*"<<" "<<i<<" "<<"="<<" "<<mul<<endl;
+ 
+}
+}
