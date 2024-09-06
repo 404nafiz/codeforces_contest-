@@ -4,7 +4,7 @@
 using namespace std;
 int main()
 {
-   int t,sum=0;
+   long long int t,sum=0;
    cin>>t;
    int input[t];
    for(int i=0;i<t;i++)
